@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there 👋, I'm Yogi<br>I’m a 6th-semester Software Engineering student with a passion for Web Development.<br>Currently, I'm deepening my skills both through on-campus learning and self-paced courses on Udemy.<br><br>🚀 Tech Stack I'm Focusing On<br>Frontend: React.js, Next.js<br>Backend: Golang<br><br>🛠️ Experience<br>I've built several web projects, combining frontend and backend technologies.<br>You can check out my projects directly here on my GitHub!<br><br>🎯 Career Goal<br>I'm working towards becoming a Full-Stack Web Developer, mastering both the art of frontend development and the architecture of robust backends.
+Hi, I'm Yogi Hafidh 👋
+I'm a Software Engineering student at Telkom University with a passion for full-stack web development.
+I specialize in building modern web applications using React.js and Next.js on the frontend, and Node.js and Golang on the backend.
+I've developed several web projects and am continuously sharpening my skills to become a professional full-stack developer.
 
 
 ## 🌐 Socials:
