@@ -4,6 +4,7 @@ Hi, I'm Yogi Hafidh 👋
 - Passionate about full-stack web development
 - Frontend: React.js, Next.js
 - Backend: Golang
+- Database: MySQL, PostgreSQL, Supabase
 - Experienced in building various web projects
 - Always learning and sharpening my skills to become a professional Full Stack Developer
 
