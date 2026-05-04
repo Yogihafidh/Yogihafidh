@@ -1,8 +1,17 @@
 <!-- HERO -->
-<h1 align="center">Hi, I'm Yogi Hafidh Maulana 👋</h1>
+<h1 align="center">Hi, I'm Yogi Hafidh 👋</h1>
 
 <p align="center">
-  Software Engineer — Backend Engineering • System Design • Fullstack Capable
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Engineering+%26+System+Design;Fullstack+Capable+(React%2C+Next.js%2C+Node.js%2C+Golang)"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
+  I design systems from real-world problems into scalable solutions.
 </p>
 
 <p align="center">
@@ -13,100 +22,100 @@
 
 ---
 
-## 🧠 About Me
+<!-- VALUE PROPOSITION -->
+## 🚀 What I Build
 
-I build systems from real-world problems.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My approach starts from understanding business workflows, translating them into structured requirements, and designing scalable architectures. I focus on backend engineering and system design, while remaining capable of building end-to-end applications.
+### 🏦 Financial Systems
+**KSP Financial Management System**
 
-> I don’t just build applications — I design systems that solve real problems.
+- Real-time reporting (from 2–3 days → instant)
+- RBAC & audit trail for accountability
+- Modular Monolith (NestJS, PostgreSQL, Redis)
 
----
+</td>
 
-## 🚀 What I Focus On
+<td width="50%" valign="top">
 
-- System Design & Architecture  
-- Backend Engineering (API, Data, Security)  
-- Fullstack Development (React, Next.js, Node.js, Golang)  
-- Product Thinking & User-Centered Systems  
+### 🚗 Product Platforms
+**Vehicle Rental Platform — Arbitrans**
 
----
+- Fullstack system (User app + Admin dashboard)
+- SEO-focused Next.js + React dashboard
+- Supabase-powered MVP backend
 
-## 💻 Tech Stack
-
-**Backend**
-
-Node.js (NestJS) • Golang • PostgreSQL • Redis
-
-
-**Frontend**
-
-React.js • Next.js • Tailwind CSS
-
-
-**Tools**
-
-Prisma • Supabase • Docker • Git
-
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Featured Projects
+<!-- FOCUS -->
+## 🧠 Engineering Focus
 
-### 🏦 KSP Financial Management System
-Transforming manual cooperative operations into a real-time backend system.
-
-- Modular Monolith Architecture  
-- RBAC & Audit Logging  
-- Real-time financial reporting  
-
-🔗 https://github.com/Yogihafidh/BE-Sistem-Informasi-Koperasi-Kusuma-Bangsa
+<p align="center">
+  <b>System Design</b> • Backend Engineering • API Development • Database Design • Product Thinking
+</p>
 
 ---
 
-### 🚗 Vehicle Rental Platform — Arbitrans
-Full-stack system for booking and operational management.
+<!-- TECH STACK -->
+## ⚙️ Tech Stack
 
-- Next.js (SEO-focused user app)  
-- React dashboard (admin system)  
-- Supabase (rapid MVP backend)  
-
-🔗 https://github.com/Yogihafidh
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,postgres,redis,docker,tailwind&perline=5" />
+</p>
 
 ---
 
+<!-- SYSTEM THINKING -->
+## 🧩 How I Think as an Engineer
+
+> Good systems don’t just work — they guide users to do the right thing.
+
+- Understand business workflows before writing code  
+- Design structured systems with clear data flow  
+- Ensure consistency through validation & architecture  
+- Align technical decisions with real user needs  
+
+---
+
+<!-- WRITING -->
 ## ✍️ Engineering Thoughts
 
-I write about how I approach building systems — from problem understanding to implementation.
+I write about system design, backend engineering, and product thinking.
 
 👉 https://medium.com/@hafidhyogi
 
 ---
 
-## 📊 GitHub Stats
+<!-- GITHUB STATS -->
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogihafidh&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogihafidh&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yogihafidh&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogihafidh&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogihafidh&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+<!-- CTA -->
+## 🤝 Let’s Connect
 
-- LinkedIn → https://linkedin.com/in/yogihafidhmaulana  
-- Medium → https://medium.com/@hafidhyogi  
-- GitHub → https://github.com/Yogihafidh  
+<p align="center">
+  <a href="https://linkedin.com/in/yogihafidhmaulana">LinkedIn</a> •
+  <a href="https://github.com/Yogihafidh">GitHub</a> •
+  <a href="https://medium.com/@hafidhyogi">Medium</a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Building systems that are not only functional, but meaningful.</i>
+  <i>Building systems that are scalable, reliable, and meaningful.</i>
 </p>
